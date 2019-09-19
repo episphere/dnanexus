@@ -1,5 +1,4 @@
-# dnanexus
-DNA Nexus working group at DCEG
+# DNA Nexus working group at DCEG
 ____
 
 Shared space for a dnanexus users community. 
