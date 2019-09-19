@@ -1,2 +1,2 @@
 # dnanexus
-DNA Nexus working group
+DNA Nexus working group at DCEG
